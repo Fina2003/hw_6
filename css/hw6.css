@@ -1,0 +1,38 @@
+div{
+    width: 350px;
+    height: 400px;
+    padding: 10px;
+    transition: 2s;
+}
+.er{
+    display: inline-block;
+    width: 350px;
+    margin: 20px;
+}
+#fl1{
+    background-color: lightskyblue;
+    border: 5px solid dodgerblue;
+}
+#fl2{
+    margin-top: 20px;
+    background-color: darkblue;
+    border: 5px solid ghostwhite;
+    border-radius: 15px;
+    box-shadow:0 0 20px #555;
+    color: ghostwhite;
+}
+#fl2:hover{
+    transform: rotate(-360deg);
+}
+#fl3{
+    margin-top: 20px;
+    background-color: lightskyblue;
+    border: 5px solid dodgerblue;
+}
+p{
+    font-size: 25px;
+}
+h2{
+    font-size: 35px;
+    text-align: center;
+}
